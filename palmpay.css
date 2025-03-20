@@ -1,0 +1,260 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    list-style: none;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+UL{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    padding-left: 200px;
+    margin-top: 20px;
+}
+.cll{
+   
+}
+button{
+    border: solid rgb(109,70,219);
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(109,70,219);
+    width: 50px;
+    height: 20px;
+    font-size:x-small;
+    margin-left: 50px;
+}
+option{
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right:10px;
+}
+select{
+    border-radius: 10px;
+    border: #f7f7fb;
+    background-color: #f7f7fb;
+    width: 100px;
+    height: 20px;
+}
+.slo{
+    margin-top: 70px;
+
+    }
+.pp{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-size: larger;
+}.jj{
+    margin-top: 20px;
+    width: 120px;
+    height: 40px;
+}
+.wod{
+    margin-top: 20px;
+    padding-bottom: 100px;
+    font-size: 12px;
+    color: rgb(113, 122, 173);
+    margin-bottom: 100px
+    0px;
+}
+.aa{
+    height: 20px;
+
+}
+
+
+.pampay {
+    padding-left: 100px;
+    padding-top: 300px;
+    background-color: black;
+}
+
+.palapy {
+    margin-top: -500px;
+}
+.more{
+    color: #ffffff;
+    margin-top:120px;
+}
+.co{
+    color: rgb(166,154,249);
+    font-size: 42px;
+}
+.ww{
+    color: white;
+}
+.ope{
+    color: #ffb38c;
+    font-size: 42px;
+}
+.amos{
+    color: white;
+}
+.damola{
+    width: 900px; 
+    height: 400px; 
+    padding-bottom: 70px;
+}
+.wode{
+    display: flex;
+    margin-top: 100px;
+    padding-left: 300px;
+    
+}
+.wode img{
+    border-top-left-radius: 20px;
+}
+.james{
+    width: 400px;
+    height: 400px;
+}
+.hap{
+    margin-top: 150px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(247,247,251);
+     border-top right radius: 20px;
+}
+.happ{
+    margin-top: 150px;
+    padding-right: 30px;
+    margin-bottom: 50px;
+    background-color: rgb(247,247,251);
+    border-top right radius: 20px;
+}
+
+.ademola{
+    background-color: black;
+}
+.mola{
+    display: flex;
+    color: white;
+}
+.hhh{
+    background-color: black;
+}
+
+
+.footer{
+    background-color: rgb(30,30,30);
+    /* padding: 100px; */
+    display: flex;
+}
+#pool{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.pmd{
+    margin-top: 40px;
+    margin-left:140px;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.per{
+    color: #ffff;
+    margin-left: 100px;
+}
+.per h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.per li{
+    padding: 40px;
+    margin-top: -70px;
+    margin-left:-40px;
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+    gap:10px;
+}
+
+.bui{
+    color: #ffff;
+    margin-left: 60px;
+    padding: 40px;
+    margin-top: 0px;
+    /* margin-left:-40px; */
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+    gap:10px;
+}
+.bui h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.bui li{
+    list-style: none;
+}
+.com{
+    color: #ffff;
+    margin-left: 60px;
+    padding: 40px;
+    margin-top: 0px;
+    /* margin-left:-40px; */
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+    gap:10px;
+}
+.com h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.com{
+    list-style: none;
+}
+.bu{
+    color: #ffff;
+    margin-left: 50px;
+    padding: 40px;
+    margin-top: 0px;
+    /* margin-left:-40px; */
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+    gap:10px;
+}
+.bu h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.bu li{
+    list-style: none;
+}
+.inst {
+    margin-top: auto;
+    gap: auto;
+}
+.copy{
+    /* background-color: rgb(30,30,30); */
+    color: white;
+}
+.copy p{
+    margin-top: -70px;
+    margin-left: 200px;
+    padding: 40px;
+}
+.ppy{
+    margin-top: -40px;
+    border-top: 1px solid rgb(53,53,53);
+    background-color: rgb(30,30,30);
+    font-size: 10px;
+    color: rgb(72,87,98);
+}
+.ppy p{
+    margin-top: 20px;
+    margin-left: 250px;
+    padding-bottom: 20px;
+}
